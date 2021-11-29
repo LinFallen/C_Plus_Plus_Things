@@ -3,6 +3,7 @@
         "*.md": "markdown",
         "iostream": "cpp",
         "*.tcc": "cpp",
-        "fstream": "cpp"
+        "fstream": "cpp",
+        "iomanip": "cpp"
     }
 }
